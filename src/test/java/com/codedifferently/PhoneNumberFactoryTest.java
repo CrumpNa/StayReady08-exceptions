@@ -1,8 +1,11 @@
+//package com.codedifferently;
 package com.codedifferently;
 
+import com.codedifferntly.phone.PhoneNumber;
 import com.codedifferently.exceptions.InvalidPhoneNumberFormatException;
-import com.codedifferently.phone.PhoneNumber;
-import com.codedifferently.phone.PhoneNumberFactory;
+
+
+import com.codedifferntly.phone.PhoneNumberFactory;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
